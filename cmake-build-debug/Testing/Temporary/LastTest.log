@@ -1,0 +1,19 @@
+Start testing: Sep 04 21:05 EDT
+----------------------------------------------------------
+1/1 Testing: unittest
+1/1 Test: unittest
+Command: "/Users/ramon/CLionProjects/CSC109/Car_Value/cmake-build-debug/unittest"
+Directory: /Users/ramon/CLionProjects/CSC109/Car_Value/cmake-build-debug
+"unittest" start time: Sep 04 21:05 EDT
+Output:
+----------------------------------------------------------
+Running cxxtest tests (1 test).OK!
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"unittest" end time: Sep 04 21:05 EDT
+"unittest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 04 21:05 EDT
